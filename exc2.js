@@ -14,7 +14,7 @@
 // e. 90 to 100 will print (Excellent)
 
 
-var math= prompt("Enter Your Name");
+var Name= prompt("Enter Your Name");
         
         const numOfsub = 6;
 
